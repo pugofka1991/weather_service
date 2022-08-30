@@ -1,8 +1,8 @@
-package com.streletsa.weatherservice.service;
+package com.weatherservice.service;
 
-import com.streletsa.weatherservice.entity.Weather;
-import com.streletsa.weatherservice.repository.WeatherRepository;
-import com.streletsa.weatherservice.parser.WeatherParser;
+import com.weatherservice.entity.Weather;
+import com.weatherservice.repository.WeatherRepository;
+import com.weatherservice.parser.WeatherParser;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
