@@ -1,9 +1,9 @@
-package com.streletsa.weatherservice.parser.impl;
+package com.weatherservice.parser.impl;
 
-import com.streletsa.weatherservice.entity.Weather;
-import com.streletsa.weatherservice.error.WebResourceWeatherGettingException;
-import com.streletsa.weatherservice.parser.WeatherParser;
-import com.streletsa.weatherservice.parser.WebResource;
+import com.weatherservice.entity.Weather;
+import com.weatherservice.error.WebResourceWeatherGettingException;
+import com.weatherservice.parser.WeatherParser;
+import com.weatherservice.parser.WebResource;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
