@@ -1,6 +1,6 @@
-package com.streletsa.weatherservice.repository;
+package com.weatherservice.repository;
 
-import com.streletsa.weatherservice.entity.Weather;
+import com.weatherservice.entity.Weather;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 /**
