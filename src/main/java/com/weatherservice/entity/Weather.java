@@ -1,4 +1,4 @@
-package com.streletsa.weatherservice.entity;
+package com.weatherservice.entity;
 
 import lombok.Getter;
 import lombok.Setter;
