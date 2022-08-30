@@ -1,6 +1,6 @@
-package com.streletsa.weatherservice.response;
+package com.weatherservice.response;
 
-import com.streletsa.weatherservice.error.ServiceException;
+import com.weatherservice.error.ServiceException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
