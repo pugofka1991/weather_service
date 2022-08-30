@@ -1,4 +1,4 @@
-package com.streletsa.weatherservice.response;
+package com.weatherservice.response;
 
 import lombok.Data;
 import org.springframework.http.HttpStatus;
