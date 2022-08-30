@@ -1,4 +1,4 @@
-package com.streletsa.weatherservice.error;
+package com.weatherservice.error;
 
 /**
  * Ошибка при получении погоды
