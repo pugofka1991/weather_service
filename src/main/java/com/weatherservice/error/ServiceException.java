@@ -1,4 +1,4 @@
-package com.streletsa.weatherservice.error;
+package com.weatherservice.error;
 
 public class ServiceException extends RuntimeException {
     public ServiceException(ErrorCode errorCode, String... params) {
