@@ -1,6 +1,6 @@
-package com.streletsa.weatherservice.service;
+package com.weatherservice.service;
 
-import com.streletsa.weatherservice.entity.Weather;
+import com.weatherservice.entity.Weather;
 
 import java.io.IOException;
 import java.util.List;
