@@ -1,4 +1,4 @@
-package com.streletsa.weatherservice.error;
+package com.weatherservice.error;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
