@@ -1,4 +1,4 @@
-package com.streletsa.weatherservice.dto;
+package com.weatherservice.dto;
 
 import lombok.Data;
 
