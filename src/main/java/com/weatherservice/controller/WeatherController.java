@@ -1,10 +1,10 @@
-package com.streletsa.weatherservice.controller;
+package com.weatherservice.controller;
 
-import com.streletsa.weatherservice.dto.WeatherDto;
-import com.streletsa.weatherservice.entity.Weather;
-import com.streletsa.weatherservice.error.WebResourceWeatherGettingException;
-import com.streletsa.weatherservice.mapper.Mapper;
-import com.streletsa.weatherservice.service.WeatherService;
+import com.weatherservice.dto.WeatherDto;
+import com.weatherservice.entity.Weather;
+import com.weatherservice.error.WebResourceWeatherGettingException;
+import com.weatherservice.mapper.Mapper;
+import com.weatherservice.service.WeatherService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
