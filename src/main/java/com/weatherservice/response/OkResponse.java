@@ -1,4 +1,4 @@
-package com.streletsa.weatherservice.response;
+package com.weatherservice.response;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
