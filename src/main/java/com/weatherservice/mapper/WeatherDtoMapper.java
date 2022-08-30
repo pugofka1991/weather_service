@@ -1,7 +1,7 @@
-package com.streletsa.weatherservice.mapper;
+package com.weatherservice.mapper;
 
-import com.streletsa.weatherservice.dto.WeatherDto;
-import com.streletsa.weatherservice.entity.Weather;
+import com.weatherservice.dto.WeatherDto;
+import com.weatherservice.entity.Weather;
 import org.springframework.stereotype.Component;
 
 @Component
